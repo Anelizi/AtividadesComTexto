@@ -1,0 +1,33 @@
+O site bechdeltest.com tem uma função muito clara: mostrar quais filmes  
+
+passam no teste de Bechdel, ou seja: (1) têm 2 personagens femininos ou  
+
+mais (com nome e relevância na trama), (2) que falam uma com a outra e (3)  
+
+o assunto de que falam não é homem. 
+
+ 
+
+1) A função desse site é bem executada? 
+
+Resposta: A função do site não está sento bem executada, porque tem filmes em que os personagens de mais relevância são personagens masculino. Nos filmes as personagens falam sobre homem, tem alguns filmes que a personagem principal é uma mulher e interagem com outras personagens do mesmo sexo, mas a ideia do site é boa, mas não está sento bem desenvolvido.  
+
+  
+
+2) Você encontrou algum filme interessante que passe nesse teste? Informe. 
+
+Resposta: sim, me interessei no filme da Cruella, Sweethea,  The Half of It e Over the Moon. 
+
+  
+
+3) Você encontrou algum filme interessante que não passe nesse teste? Informe. 
+
+Resposta: sim, achei o nome interessante do filme: From Stress to Happiness.  
+
+  
+
+4) Visualmente o site é fraco. Isso é uma afirmação. 
+
+Diga como o site pode ser melhorado, focando sempre na experiência do usuário. 
+
+Resposta: mudar a cor do fundo para uma cor mais agradável, colocar só os filmes que passam pelo teste de Bechdel, colocar outra fonte de texto, deixa mais visível o filme colocando uma imagem que represente o filme ou o telhe do filme e organiza melhor o site.
